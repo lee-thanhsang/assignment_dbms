@@ -1,0 +1,12 @@
+CREATE PRIMARY INDEX ON default:website_dbms._default.answer_question;
+CREATE PRIMARY INDEX ON default:website_dbms._default.branch;
+CREATE PRIMARY INDEX ON default:website_dbms._default.contact;
+CREATE PRIMARY INDEX ON default:website_dbms._default.customer;
+CREATE PRIMARY INDEX ON default:website_dbms._default.employee;
+CREATE PRIMARY INDEX ON default:website_dbms._default.join_in;
+CREATE PRIMARY INDEX ON default:website_dbms._default.promotion;
+CREATE PRIMARY INDEX ON default:website_dbms._default.rate_branch;
+CREATE PRIMARY INDEX ON default:website_dbms._default.rate_employee;
+CREATE PRIMARY INDEX ON default:website_dbms._default.supplier;
+CREATE PRIMARY INDEX ON default:website_dbms._default.typeofgoods;
+CREATE PRIMARY INDEX ON default:website_dbms._default.user_role;
